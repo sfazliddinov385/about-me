@@ -65,7 +65,26 @@ Previously I interned as a **Software Engineer at Walmart Global Tech**, where I
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
+
+### [Defender Detection Engineering Lab](https://github.com/sfazliddinov385/defender-detection-engineering-lab)
+
+Six-stage attack against two Windows 11 hosts on Microsoft Defender for Endpoint. Default Defender saw every stage but raised zero incidents — so I built four custom KQL detection rules that caught it, including a multi-stage correlated incident, then ran a full NIST 800-61 incident response.
+
+```text
+┌─ stack ──────────────┐
+│ Defender · MDE       │
+│ KQL · Live Response  │
+│ MITRE ATT&CK         │
+└──────────────────────┘
+```
+
+<a href="https://github.com/sfazliddinov385/defender-detection-engineering-lab">
+  <img src="https://img.shields.io/badge/-VIEW%20REPO-00b4d8?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
 
 ### [AI Sentinel Triage Agent](https://github.com/sfazliddinov385/ai-sentinel-triage-agent)
 
@@ -84,7 +103,9 @@ AI agent on a live Microsoft Sentinel workspace. Writes its own KQL, pulls sign-
 </a>
 
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### [Splunk Detection Lab](https://github.com/sfazliddinov385/Detection-Lab)
 
@@ -103,7 +124,7 @@ Three-VM lab with four detections across four log sources, covering a full intru
 </a>
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### [Network Traffic Investigations](https://github.com/sfazliddinov385/threat-investigations)
 
@@ -134,7 +155,8 @@ Real malicious PCAPs worked end to end in Wireshark. Find the infected host, the
 #### `// security operations`
 
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-005EB8?style=for-the-badge&logo=elasticstack&logoColor=white)
+![Microsoft Defender](https://img.shields.io/badge/MS%20Defender-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Sentinel](https://img.shields.io/badge/Sentinel-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=security&logoColor=white)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-CC0000?style=for-the-badge&logoColor=white)
@@ -145,6 +167,7 @@ Real malicious PCAPs worked end to end in Wireshark. Find the infected host, the
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![KQL](https://img.shields.io/badge/KQL-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
