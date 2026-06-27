@@ -69,7 +69,8 @@ Previously I interned as a **Software Engineer at Walmart Global Tech**, where I
 
 ### [Defender Detection Engineering Lab](https://github.com/sfazliddinov385/defender-detection-engineering-lab)
 
-Six-stage attack against two Windows 11 hosts on Microsoft Defender for Endpoint. Default Defender saw every stage but raised zero incidents — so I built four custom KQL detection rules that caught it, including a multi-stage correlated incident, then ran a full NIST 800-61 incident response.
+Simulated a six-stage attack across two Windows 11 hosts in Microsoft Defender for Endpoint, then built four custom KQL detection rules after default Defender logging generated no incidents. Created a multi-stage correlated incident and completed a full NIST 800-61 incident response.
+
 
 ```text
 ┌─ stack ──────────────┐
@@ -88,7 +89,7 @@ Six-stage attack against two Windows 11 hosts on Microsoft Defender for Endpoint
 
 ### [AI Sentinel Triage Agent](https://github.com/sfazliddinov385/ai-sentinel-triage-agent)
 
-AI agent on a live Microsoft Sentinel workspace. Writes its own KQL, pulls sign-in and audit logs, and returns a triage verdict with a timeline and response steps. MITRE-mapped detections for account takeover and BEC.
+Built an AI triage agent for a live Microsoft Sentinel workspace that generates KQL, analyzes sign-in and audit logs, and returns triage verdicts with timelines and response steps. Created MITRE-mapped detections for account takeover and BEC activity.
 
 ```text
 ┌─ stack ──────────────┐
@@ -109,7 +110,7 @@ AI agent on a live Microsoft Sentinel workspace. Writes its own KQL, pulls sign-
 
 ### [Splunk Detection Lab](https://github.com/sfazliddinov385/Detection-Lab)
 
-Three-VM lab with four detections across four log sources, covering a full intrusion: brute force, encoded PowerShell, registry persistence, and C2 beaconing. Each mapped to MITRE ATT&CK and the Cyber Kill Chain.
+Built a three-VM detection lab with four detections across four log sources, covering brute force, encoded PowerShell, registry persistence, and C2 beaconing. Mapped each detection to MITRE ATT&CK and the Cyber Kill Chain.
 
 ```text
 ┌─ stack ──────────────┐
@@ -128,7 +129,7 @@ Three-VM lab with four detections across four log sources, covering a full intru
 
 ### [Network Traffic Investigations](https://github.com/sfazliddinov385/threat-investigations)
 
-Real malicious PCAPs worked end to end in Wireshark. Find the infected host, the user, and the C2 infrastructure, and separate the real threat from benign telemetry and CDN noise.
+Analyzed real malicious PCAPs in Wireshark to identify infected hosts, affected users, and C2 infrastructure while filtering out benign telemetry, CDN traffic, and normal network noise.
 
 ```text
 ┌─ stack ──────────────┐
