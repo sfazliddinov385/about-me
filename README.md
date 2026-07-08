@@ -38,7 +38,9 @@ I'm a graduate student in the **M.S. Cybersecurity program at Georgia Tech**, st
 
 My focus is blue team security operations: detection engineering, SIEM tuning, incident response, and threat hunting. I'm preparing for cybersecurity internship and SOC analyst opportunities by building hands-on labs, writing detection rules, investigating attack activity, and documenting my work end to end.
 
-Previously, I interned as a **Software Engineer at Walmart Global Tech**, where I shipped enterprise features that cut page load time by 18%, lifted adoption by 25%, and drove roughly $120K in annual savings through automation.
+Previously, I interned as a **Software Engineer at Walmart Global Tech**, where I shipped enterprise features that improved page load time by **18%**, increased adoption by **25%** across **200+ users**, and helped automate reporting work from **4 hours to 30 minutes**, driving roughly **$120K in annual savings**.
+
+I also gained hands-on IT experience as an **IT Intern at Ignite Professional Studies**, where I supported technical troubleshooting, user support, device setup, and day-to-day IT operations.
 
 ---
 
