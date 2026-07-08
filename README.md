@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/sfazliddinov385">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Beck+%F0%9F%91%8B;Information+Security+Graduate+Student+%40+Georgia+Tech;Blue+Team+%7C+Detection+Engineering+%7C+SIEM" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Beck+%F0%9F%91%8B" alt="Typing animation" />
 </a>
 
 </div>
@@ -38,9 +38,9 @@ I'm a graduate student in the **M.S. Cybersecurity program at Georgia Tech**, st
 
 My focus is blue team security operations: detection engineering, SIEM tuning, incident response, and threat hunting. I'm preparing for cybersecurity internship and SOC analyst opportunities by building hands-on labs, writing detection rules, investigating attack activity, and documenting my work end to end.
 
-Previously, I interned as a **Software Engineer at Walmart Global Tech**, where I shipped enterprise features that improved page load time by **18%**, increased adoption by **25%** across **200+ users**, and helped automate reporting work from **4 hours to 30 minutes**, driving roughly **$120K in annual savings**.
+Previously, I interned as a **Software Engineer at Walmart Global Tech**, where I shipped production features on an enterprise application used by **200+ people**. My work cut page load time by **18%**, drove a **25% increase in adoption**, and automated a manual reporting process from **4 hours down to 30 minutes**, an **87% time reduction** worth roughly **$120K in annual savings**.
 
-I also gained hands-on IT experience as an **IT Intern at Ignite Professional Studies**, where I supported technical troubleshooting, user support, device setup, and day-to-day IT operations.
+I also worked as an **IT Intern at Ignite Professional Studies**, providing front-line technical support: troubleshooting and resolving hardware and software issues, setting up and configuring end-user devices, and keeping day-to-day IT operations running.
 
 ---
 
