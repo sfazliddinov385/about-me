@@ -1,18 +1,20 @@
 <div align="center">
 
 <a href="https://github.com/sfazliddinov385">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Beck+%F0%9F%91%8B" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Beck+%F0%9F%91%8B;Incoming+InfoSec+Graduate+Student+%40+Georgia+Tech;Blue+Team+%7C+Detection+Engineering+%7C+SIEM" alt="Typing animation" />
+</a>
 
 </div>
-
 
 <br/>
 
 ```yaml
 name:        Sarvarbek Fazliddinov (Beck)
 location:    Bentonville, AR
+current:     Incoming Information Security Graduate Student @ Georgia Tech | Walmart
 studying:    B.S. Computer Science @ SNHU          [May 2026]
-admitted:    M.S. Cybersecurity @ Georgia Tech     [Fall 2026]
+graduate:    M.S. Cybersecurity @ Georgia Tech     [Fall 2026]
+track:       Information Security
 focus:       detection engineering · SIEM · incident response · threat hunting
 ```
 
@@ -32,16 +34,15 @@ focus:       detection engineering · SIEM · incident response · threat huntin
 
 ## `▸ 01 ·` ABOUT
 
-I'm a Computer Science senior at **Southern New Hampshire University** concentrating in Data Analytics, graduating May 2026. This Fall I'll be starting my **M.S. in Cybersecurity at Georgia Tech** (Information Security track).
+I'm a Computer Science senior at **Southern New Hampshire University** concentrating in Data Analytics, graduating May 2026. This Fall, I’ll be starting my **M.S. in Cybersecurity at Georgia Tech** on the **Information Security track**.
 
 My focus is blue team security operations: detection engineering, SIEM tuning, incident response, and threat hunting. I'm preparing to step into a **SOC Tier 1 Analyst** role, and I spend most of my time building home labs, writing detection rules, and documenting the work end to end.
 
-Previously I interned as a **Software Engineer at Walmart Global Tech**, where I shipped enterprise features that cut page load time by 18%, lifted adoption by 25%, and drove roughly $120K in annual savings through automation.
+Previously, I interned as a **Software Engineer at Walmart Global Tech**, where I shipped enterprise features that cut page load time by 18%, lifted adoption by 25%, and drove roughly $120K in annual savings through automation.
 
 ---
 
 ## `▸ 02 ·` CERTIFICATIONS
-
 
 <div align="center">
 
@@ -70,7 +71,6 @@ Previously I interned as a **Software Engineer at Walmart Global Tech**, where I
 ### [Defender Detection Engineering Lab](https://github.com/sfazliddinov385/defender-detection-engineering-lab)
 
 Simulated a six-stage attack across two Windows 11 hosts in Microsoft Defender for Endpoint, then built four custom KQL detection rules after default Defender logging generated no incidents. Created a multi-stage correlated incident and completed a full NIST 800-61 incident response.
-
 
 ```text
 ┌─ stack ──────────────┐
